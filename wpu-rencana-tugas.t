@@ -3,6 +3,8 @@ RENCANA TUGAS WPU
 -Melihat tutorial tugas
 *Menyelesaikan tugas
 *Buka laptop
--penilaian tugas
+^ anggular
+^ React
 -Mengerjakan tugas
+^ Laraval
 -Menyelesaikan tugas
