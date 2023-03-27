@@ -5,6 +5,7 @@ RENCANA TUGAS WPU
 *Buka laptop
 ^ Vue
 ^ React
+^ Angular
 -penilaian tugas
 -Mengerjakan tugas
 ^ Laravel
